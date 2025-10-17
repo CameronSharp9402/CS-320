@@ -1,1 +1,1 @@
-# CS320-Software-Test-Automation-QA-
+# Software Test/Automation QA
